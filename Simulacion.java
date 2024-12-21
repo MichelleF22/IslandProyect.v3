@@ -2,7 +2,7 @@
 import java.util.ArrayList;
 import java.util.List;
 public class Simulacion {
-    public static int[][] isla = new int[10][10]; //TAMAÑO DE LA ISLA (10x10 es un tamaño equilobrado para la cantidad de animales)
+    public static int[][] isla = new int[10][10]; //TAMAÑO DE LA ISLA (10x10 es un tamaño equilibrado para la cantidad de animales)
 
     public static void main(String[] args) {
 
